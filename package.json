@@ -1,0 +1,27 @@
+{
+  "name": "gql",
+  "version": "1.0.0",
+  "description": "Graph QL Playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Reinecke",
+  "license": "ISC",
+  "dependencies": {
+    "and": "^0.0.3",
+    "apollo-server": "^2.6.2",
+    "apollo-server-express": "^2.6.2",
+    "babel": "^6.23.0",
+    "dependencies": "^0.0.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "graphql": "^14.3.1",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.8.8",
+    "sqlite3": "^4.0.8",
+    "tedious": "^6.1.2"
+  }
+}

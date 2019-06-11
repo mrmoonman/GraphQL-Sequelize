@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "gql",
+    "password": "Password",
+    "database": "GQL",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "port": 51567
+  },
+  "test": {
+    "username": "gql",
+    "password": "Password",
+    "database": "GQL",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "port": 51567
+  },
+  "production": {
+    "username": "gql",
+    "password": "Password",
+    "database": "GQL",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "port": 51567
+  }
+}
